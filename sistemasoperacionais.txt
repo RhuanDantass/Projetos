@@ -1,0 +1,4 @@
+🖥️ Sistemas Operacionais
+
+Aprender sobre Sistemas Operacionais foi como abrir a tampa do computador e enxergar como tudo funciona por trás. 😅
+Entendi o que acontece desde a hora que a gente aperta o botão de ligar até o momento que o desktop aparece. Aprendi sobre processos, memória, permissões, e como diferentes sistemas como Windows e Linux gerenciam os recursos. Agora sei usar comandos no terminal e até fazer algumas automações! 💡
