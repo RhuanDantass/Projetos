@@ -1,4 +1,4 @@
-#💻 Sobre o Curso de Informática
+💻 Sobre o Curso de Informática
 
 E aí! Seja bem-vindo ao meu espaço aqui no GitHub! 😄
 
